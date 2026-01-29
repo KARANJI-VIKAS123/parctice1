@@ -10,7 +10,7 @@ def reverse(num):
 def ispalindrome(num):
     return num == reverse(num)
 
-print(reverse(123))        # 321
+print(reverse(123456))        # 321
 print(ispalindrome(123))  # False
 print(reverse(121))        # 121
 print(ispalindrome(121))  # True
