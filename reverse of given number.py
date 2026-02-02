@@ -10,3 +10,7 @@ print("reverse number is:",rev)
 a=10
 b=20
 c=a+b
+
+"""story-20"""
+while num!=0:
+    print("hello my name is vikas")
