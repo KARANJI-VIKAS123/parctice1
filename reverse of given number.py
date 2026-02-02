@@ -5,3 +5,8 @@ while(num>0):
     rev=rev*10+num%10
     num=num//10
 print("reverse number is:",rev)
+
+"""story-19"""
+x=10
+y=30
+z=x+y
