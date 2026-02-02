@@ -7,6 +7,6 @@ while(num>0):
 print("reverse number is:",rev)
 
 """story-19"""
-x=10
-y=30
-z=x+y
+a=10
+b=20
+c=a+b
